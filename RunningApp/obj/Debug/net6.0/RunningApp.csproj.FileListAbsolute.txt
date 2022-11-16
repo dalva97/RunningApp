@@ -1,0 +1,5 @@
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.csproj.AssemblyReference.cache
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.AssemblyInfoInputs.cache
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.AssemblyInfo.cs
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.csproj.CoreCompileInputs.cache
