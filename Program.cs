@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace LetsRun
 {
@@ -9,7 +10,7 @@ namespace LetsRun
             Console.WriteLine("Welcome to LetsRun!!");
             Console.WriteLine("\tDid you run Today? Y/N");
             var responseDidTheyRun = Console.ReadKey().KeyChar;
-            var run = new Run;
+            var run = new Run();
 
             if(responseDidTheyRun == 'y')
             {
@@ -51,5 +52,9 @@ namespace LetsRun
             Console.WriteLine("Distance: " + run.Distance);
             Console.Writeline("Duration: " + run.Duration);
 
-    }
+            string fileName = "Run.json";
+            string jsonString = JsonSerializer.Serialize(run);
+            File.WriteAllText(fileName, jsonString);
+
+        }
 }
