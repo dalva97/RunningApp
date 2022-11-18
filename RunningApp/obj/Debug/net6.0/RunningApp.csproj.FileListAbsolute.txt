@@ -3,3 +3,13 @@
 /Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.AssemblyInfoInputs.cache
 /Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.AssemblyInfo.cs
 /Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.csproj.CoreCompileInputs.cache
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/bin/Debug/net6.0/RunningApp
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/bin/Debug/net6.0/RunningApp.deps.json
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/bin/Debug/net6.0/RunningApp.runtimeconfig.json
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/bin/Debug/net6.0/RunningApp.dll
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/bin/Debug/net6.0/RunningApp.pdb
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.dll
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/refint/RunningApp.dll
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.pdb
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/RunningApp.genruntimeconfig.cache
+/Users/DulceAlvarado/Projects/LetsRun/RunningApp/obj/Debug/net6.0/ref/RunningApp.dll
